@@ -36,7 +36,7 @@
 
 <!-- [![Watch the video](https://user-images.githubusercontent.com/103493837/235324561-d3da8b13-cb43-4727-be62-9b2d33414049.jpeg)](https://youtu.be/Uq3vOsC0IbU) -->
 
-<a href="https://youtu.be/a2FzY71vWYU"><img src="https://user-images.githubusercontent.com/103493837/235324561-d3da8b13-cb43-4727-be62-9b2d33414049.jpeg" align="center"  ></a>
+<a href="https://youtu.be/a2FzY71vWYU"><img src="https://user-images.githubusercontent.com/103493837/235324561-d3da8b13-cb43-4727-be62-9b2d33414049.jpeg" align="center" target="_blank"  ></a>
 
 
 - <p>[BeeCareful®](https://github.com/mwmarszalek/BeeCareful): Beecareful is a full-stack app for beehive management. It allows users to track daily inspections, hive health, bee colonies and weather (using external API). It was developed as a team project over 7 days using React and javascript with an Express server and a MongoDB database. We developed the app using feedback from an experienced apiarist looking to improve on current applications available on the market and was tested with his colonies after development. I took the lead on designing the React front-end (components hierarchy and relationships and UX). It received very positive feedback from users who praised the user interface.</p>
