@@ -2,7 +2,7 @@
 
 <ul>
   <li>- 💻 Junior software developer with academic background in social statistics</li>
-  <li>- 👨🏻‍🎓 Professional Software Development @ Codeclan (G34) </li>
+  <li>- 👨🏻‍🎓 Professional Software Development Graduate @ Codeclan (G34) </li>
   <li>- 🏃 Marathon runner</li>
 </ul>
 <hr></hr>
@@ -48,7 +48,8 @@
 </p>
 
 
-- [EarthTrekker®](https://github.com/mwmarszalek/EarthTrekker): Earth Trekker is full-stack CRUD app developed solo over 5 days in Python with Flask and a PostgreSQL database which allows users to track countries and cities they visited or plan to visit. I drew from my own experience as a seasoned traveller to design the functionality and user interface.
+- [EarthTrekker®](https://github.com/mwmarszalek/EarthTrekker): Earth Trekker is my first full-stack CRUD app developed solo over 5 days in Python with Flask and a PostgreSQL database which allows users to track countries and cities they visited or plan to visit. I drew from my own experience as a seasoned traveller to design the functionality and user interface.
 
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103493837/235325988-9ec7a23b-b05b-4e9a-bdd8-fe0b2c5e4d31.png" width="850">
+</p>
