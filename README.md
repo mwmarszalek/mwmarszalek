@@ -45,8 +45,9 @@
   <img src="https://user-images.githubusercontent.com/103493837/235322087-5b698a22-cf91-4a6a-9003-9190d1baba02.gif" >
 </p>
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://user-images.githubusercontent.com/103493837/235324561-d3da8b13-cb43-4727-be62-9b2d33414049.jpeg)](https://youtu.be/Uq3vOsC0IbU)
 
+![macrosTitlePlay](https://user-images.githubusercontent.com/103493837/235324561-d3da8b13-cb43-4727-be62-9b2d33414049.jpeg)
 
 - [EarthTrekker®](https://github.com/mwmarszalek/EarthTrekker): Earth Trekker is full-stack CRUD app developed solo over 5 days in Python with Flask and a PostgreSQL database which allows users to track countries and cities they visited or plan to visit. I drew from my own experience as a seasoned traveller to design the functionality and user interface.
 
