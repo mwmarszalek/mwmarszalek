@@ -1,11 +1,11 @@
-### Hi, I'm Michal... :-) 👋
+### <h1>Hi, I'm Michal... :-) 👋 </h1>
 
 - 💻 Junior software developer with academic background in social statistics
 - 👨🏻‍🎓 CodeClan Professional Software Development @ G34 *theGang*
 - 🏃 Marathon runner
 
 
-<h1>Stack</h1>
+<h2>Stack</h2>
 <div align="center">
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50px/>&nbsp;
@@ -25,7 +25,7 @@
 <hr></hr>
 
 
-## Projects
+<h2>## Projects</h2>
 
 - [MacrOS - Calorie Calculator & Tracking App - Front-end](https://github.com/larrywongkahei/MacrOS) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): MacrOS is a full-stack calorie tracking application, with functionality allowing users set nutrition goals, track and view their daily food/calorie/macro intake and monitor their progress over time. It was developed as a team project over 14 days using Javascript, React and Bootstrap, with a Java Spring Boot server and a PostgreSQL database. I took a lead on programming the onboarding and registration process. Since development it has been beta tested by a number of fitness enthusiasts including a former professional rugby player who say that the user experience and quality of tracking put it leagues ahead of its main competitor myfitnesspal.
 
