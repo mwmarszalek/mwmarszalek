@@ -31,22 +31,17 @@
 
 ### Projects:
 
+- [MacrOS® - Calorie Calculator & Tracking App - Front-end](https://github.com/mwmarszalek/MacrOS_frontend) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): MacrOS is a full-stack calorie tracking application, with functionality allowing users set nutrition goals, track and view their daily food/calorie/macro intake and monitor their progress over time. It was developed as a team project over 14 days using Javascript, React and Bootstrap, with a Java Spring Boot server and a PostgreSQL database. I took a lead on programming the onboarding and registration process. Since development it has been beta tested by a number of fitness enthusiasts including a former professional rugby player who say that the user experience and quality of tracking put it leagues ahead of its main competitor myfitnesspal.
+
+[![Watch the video](https://user-images.githubusercontent.com/103493837/235324561-d3da8b13-cb43-4727-be62-9b2d33414049.jpeg)](https://youtu.be/Uq3vOsC0IbU)
 
 - <p>[BeeCareful®](https://github.com/mwmarszalek/BeeCareful): Beecareful is a full-stack app for beehive management. It allows users to track daily inspections, hive health, bee colonies and weather (using external API). It was developed as a team project over 7 days using React and javascript with an Express server and a MongoDB database. We developed the app using feedback from an experienced apiarist looking to improve on current applications available on the market and was tested with his colonies after development. I took the lead on designing the React front-end (components hierarchy and relationships and UX). It received very positive feedback from users who praised the user interface.</p>
  
 
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif" >
-</p> -->
-
-[![Watch the video](https://user-images.githubusercontent.com/103493837/235325196-52fb71ab-ec22-43f5-a4f5-b3ce57daacbd.jpeg)]([https://youtu.be/Uq3vOsC0IbU](https://youtu.be/a2FzY71vWYU))
-
-
-- [MacrOS® - Calorie Calculator & Tracking App - Front-end](https://github.com/mwmarszalek/MacrOS_frontend) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): MacrOS is a full-stack calorie tracking application, with functionality allowing users set nutrition goals, track and view their daily food/calorie/macro intake and monitor their progress over time. It was developed as a team project over 14 days using Javascript, React and Bootstrap, with a Java Spring Boot server and a PostgreSQL database. I took a lead on programming the onboarding and registration process. Since development it has been beta tested by a number of fitness enthusiasts including a former professional rugby player who say that the user experience and quality of tracking put it leagues ahead of its main competitor myfitnesspal.
+[![Watch the video](https://user-images.githubusercontent.com/103493837/235325338-ad8c160a-12ec-44b7-89a1-738c6a553cb1.jpeg)]([https://youtu.be/Uq3vOsC0IbU](https://youtu.be/a2FzY71vWYU))
 
 
 
-[![Watch the video](https://user-images.githubusercontent.com/103493837/235324561-d3da8b13-cb43-4727-be62-9b2d33414049.jpeg)](https://youtu.be/Uq3vOsC0IbU)
 
 
 
