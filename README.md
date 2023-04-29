@@ -33,8 +33,6 @@
 
 - [MacrOS - Calorie Calculator & Tracking App - Front-end](https://github.com/mwmarszalek/MacrOS_frontend) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): MacrOS is a full-stack calorie tracking application, with functionality allowing users set nutrition goals, track and view their daily food/calorie/macro intake and monitor their progress over time. It was developed as a team project over 14 days using Javascript, React and Bootstrap, with a Java Spring Boot server and a PostgreSQL database. I took a lead on programming the onboarding and registration process. Since development it has been beta tested by a number of fitness enthusiasts including a former professional rugby player who say that the user experience and quality of tracking put it leagues ahead of its main competitor myfitnesspal.
 
-
-![macros try1gif2](https://user-images.githubusercontent.com/103493837/235322087-5b698a22-cf91-4a6a-9003-9190d1baba02.gif)"
 <p align="center">
   <img src="https://user-images.githubusercontent.com/103493837/235322087-5b698a22-cf91-4a6a-9003-9190d1baba02.gif">
 </p>
@@ -44,6 +42,9 @@
  
 ![beeCarefulgif](https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif" width="800>
+</p>
 
 - [EarthTrekker](https://github.com/mwmarszalek/EarthTrekker): Users can browse available pets and submit adoption requests with full admin functionality for the charity management. Group project built in 5 days using React JS, Express.js and MongoDB
 
