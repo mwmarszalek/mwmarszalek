@@ -15,11 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height=50px/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height=50px/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height=50px/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-colored.svg" height=50px/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=50px/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50px />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-colored.svg" height=50px/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=50px/> &nbsp;
 </span>
   </div>
