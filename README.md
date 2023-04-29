@@ -36,7 +36,7 @@
  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif" width="1024" height="768">
+  <img src="https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif" >
 </p>
 
 - [MacrOS® - Calorie Calculator & Tracking App - Front-end](https://github.com/mwmarszalek/MacrOS_frontend) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): MacrOS is a full-stack calorie tracking application, with functionality allowing users set nutrition goals, track and view their daily food/calorie/macro intake and monitor their progress over time. It was developed as a team project over 14 days using Javascript, React and Bootstrap, with a Java Spring Boot server and a PostgreSQL database. I took a lead on programming the onboarding and registration process. Since development it has been beta tested by a number of fitness enthusiasts including a former professional rugby player who say that the user experience and quality of tracking put it leagues ahead of its main competitor myfitnesspal.
