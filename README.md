@@ -4,6 +4,7 @@
   <li>- 💻 &nbsp; Junior software developer with academic background in social statistics</li>
   <li>- 👨🏻‍🎓 &nbsp; Professional Software Development Graduate @ Codeclan (G34) </li>
   <li>- 🏃 &nbsp; Marathon runner</li>
+  <li>- 💬 &nbsp; Currently looking for a job in EU or UK :) feel free to contact me if you find my work interesting :)</li>
 </ul>
 <hr></hr>
 
