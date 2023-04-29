@@ -1,7 +1,7 @@
 ### Hi, I'm Michal... :-) 👋 
 
 - 💻 Junior software developer with academic background in social statistics
-- 👨🏻‍🎓 CodeClan Professional Software Development @ G34 *theGang*
+- 👨🏻‍🎓 CodeClan Professional Software Development Graduate (G34)
 - 🏃 Marathon runner
 <hr></hr>
 
