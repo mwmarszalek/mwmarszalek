@@ -6,7 +6,7 @@
 
 
 
-### Stack
+### My current tech stack:
 <div align="center">
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50px/>&nbsp;
