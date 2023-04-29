@@ -32,9 +32,8 @@
 
 <h1>Projects:</h1>
 
-
-
-[MacrOS® - Calorie Calculator & Tracking App - Front-end](https://github.com/mwmarszalek/MacrOS_frontend) | [Back-end](https://github.com/mwmarszalek/MacrOS_backend): MacrOS is a full-stack calorie tracking application, with functionality allowing users set nutrition goals, track and view their daily food/calorie/macro intake and monitor their progress over time. It was developed as a team project over 14 days using Javascript, React and Bootstrap, with a Java Spring Boot server and a PostgreSQL database. I took a lead on programming the onboarding and registration process. Since development it has been beta tested by a number of fitness enthusiasts including a former professional rugby player who say that the user experience and quality of tracking put it leagues ahead of its main competitor myfitnesspal.
+  
+<h3><a href="https://github.com/mwmarszalek/MacrOS_frontend">MacrOS® - Calorie Calculator & Tracking App - Front-end</a> | <a href="https://github.com/mwmarszalek/MacrOS_backend">Back-end</a>: MacrOS is a full-stack calorie tracking application, with functionality allowing users set nutrition goals, track and view their daily food/calorie/macro intake and monitor their progress over time. It was developed as a team project over 14 days using Javascript, React and Bootstrap, with a Java Spring Boot server and a PostgreSQL database. I took a lead on programming the onboarding and registration process. Since development it has been beta tested by a number of fitness enthusiasts including a former professional rugby player who say that the user experience and quality of tracking put it leagues ahead of its main competitor myfitnesspal. </h3>
 
 
 <p align="center">
@@ -52,6 +51,6 @@
 [EarthTrekker®](https://github.com/mwmarszalek/EarthTrekker): Earth Trekker is my first full-stack CRUD app developed solo over 5 days in Python with Flask and a PostgreSQL database which allows users to track countries and cities they visited or plan to visit. I drew from my own experience as a seasoned traveller to design the functionality and user interface.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/103493837/235325988-9ec7a23b-b05b-4e9a-bdd8-fe0b2c5e4d31.png" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/103493837/235325988-9ec7a23b-b05b-4e9a-bdd8-fe0b2c5e4d31.png" width="80%" height="100%">
 </p>
 
