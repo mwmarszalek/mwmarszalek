@@ -40,11 +40,13 @@
 
 - [BeeCareful](https://github.com/mwmarszalek/BeeCareful): Beecareful is a full-stack app for beehive management. It allows users to track daily inspections, hive health, bee colonies and weather (using external API). It was developed as a team project over 7 days using React and javascript with an Express server and a MongoDB database. We developed the app using feedback from an experienced apiarist looking to improve on current applications available on the market and was tested with his colonies after development. I took the lead on designing the React front-end (components hierarchy and relationships and UX). It received very positive feedback from users who praised the user interface.
  
-![beeCarefulgif](https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif)
+
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif" width="800>
+  <img src="https://user-images.githubusercontent.com/103493837/235320059-bb12b885-a2cc-4520-af40-3170d2548daa.gif" width="800">
 </p>
+
+
 
 - [EarthTrekker](https://github.com/mwmarszalek/EarthTrekker): Users can browse available pets and submit adoption requests with full admin functionality for the charity management. Group project built in 5 days using React JS, Express.js and MongoDB
 
