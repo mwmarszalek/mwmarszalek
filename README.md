@@ -4,6 +4,7 @@
 - 👨🏻‍🎓 CodeClan Professional Software Development @ G34 *theGang*
 - 🏃 Marathon runner
 
+![beeCarefulgif](https://user-images.githubusercontent.com/103493837/235319522-3b6b674a-0e93-4595-a607-ccde424d0583.gif)
 
 ### Tech Stack:
 <div align="center">
