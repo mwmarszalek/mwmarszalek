@@ -32,7 +32,7 @@
 ### Projects:
 
 
-- [BeeCareful®](https://github.com/mwmarszalek/BeeCareful): Beecareful is a full-stack app for beehive management. It allows users to track daily inspections, hive health, bee colonies and weather (using external API). It was developed as a team project over 7 days using React and javascript with an Express server and a MongoDB database. We developed the app using feedback from an experienced apiarist looking to improve on current applications available on the market and was tested with his colonies after development. I took the lead on designing the React front-end (components hierarchy and relationships and UX). It received very positive feedback from users who praised the user interface.
+- <p>[BeeCareful®](https://github.com/mwmarszalek/BeeCareful): Beecareful is a full-stack app for beehive management. It allows users to track daily inspections, hive health, bee colonies and weather (using external API). It was developed as a team project over 7 days using React and javascript with an Express server and a MongoDB database. We developed the app using feedback from an experienced apiarist looking to improve on current applications available on the market and was tested with his colonies after development. I took the lead on designing the React front-end (components hierarchy and relationships and UX). It received very positive feedback from users who praised the user interface.</p>
  
 
 <p align="center">
