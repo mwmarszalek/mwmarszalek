@@ -30,6 +30,15 @@
   </div>
 <hr></hr>
 
+<h1>Currently Learning:</h1>
+<div align="center">
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=50px/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height=50px/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=50px/> &nbsp;
+</span>
+  </div>
+<hr></hr>
 
 <h1>Projects:</h1>
 
