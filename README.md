@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/108957679/221864279-fa907251-bad8-465a-b682-537dc92940dc.png" height=50px/>&nbsp;
 </span>
   </div>
-<hr></hr>
+
 
 <h1>Currently Learning:</h1>
 <div align="center">
