@@ -1,7 +1,7 @@
 <h1> Hi, I'm Michal... :-) 👋 </h1>
 
 <ul>
-  <li>- 💻 &nbsp; Junior software developer with academic background in social statistics</li>
+  <li>- 💻 &nbsp; Software Developer with academic background in social statistics</li>
 
   <li>- 👨🏻‍🎓 &nbsp; Professional Software Development Graduate @ Codeclan (G34) </li>
   <li>- 🏃 &nbsp; Marathon runner</li>
