@@ -2,9 +2,6 @@
 
 <ul>
   <li>- 💻 &nbsp; Software Developer with academic background in social statistics</li>
-
-  <li>- 👨🏻‍🎓 &nbsp; Professional Software Development Graduate @ Codeclan (G34) </li>
-  <li>- 🏃 &nbsp; Marathon runner</li>
 </ul>
 <hr></hr>
 
@@ -30,7 +27,7 @@
   </div>
 
 
-<h1>Currently Learning:</h1>
+<h1>Currently Building With:</h1>
 <div align="center">
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=50px/>&nbsp;
